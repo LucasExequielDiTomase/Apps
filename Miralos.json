@@ -1,1 +1,3 @@
-
+[
+  {"action":{"type":"block"},"trigger":{"url-filter":"^[^:]+://+([^:/]+\\.)?webkit\\.svg[:/]"}}
+]
